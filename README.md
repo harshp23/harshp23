@@ -20,11 +20,11 @@ I help businesses turn complex data into actionable insights, optimize revenue, 
 | Python, SQL,  c+    | Pandas, NumPy, Matplotlib, Seaborn | Scikit-learn, XGBoost |
 | Power BI, Tableau   | Excel, Power Query, DAX        | Regression, Classification, Clustering |
 | Git, GitHub         | Data Cleaning & ETL           
-                      | Feature Engineering |
+                      
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 1️⃣ [Revenue Leakage Detection](https://github.com/harshp23/Telecom_revenue_leakage_Analysis)
 - Identified revenue loss worth $133K by analyzing transaction data.  
