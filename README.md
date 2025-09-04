@@ -6,10 +6,10 @@ I help businesses turn complex data into actionable insights, optimize revenue, 
 ---
 
 ## 🚀 About Me
-- 🔹 Experienced in analyzing large datasets to uncover trends, anomalies, and opportunities.  
-- 🔹 Skilled in **Python, SQL, Power BI, Tableau**, and **data visualization**.  
-- 🔹 Passionate about building **predictive models** for churn, revenue leakage, and business optimization.  
-- 🔹 Always learning and exploring the latest in **data analytics and AI**.  
+-  Experienced in analyzing large datasets to uncover trends, anomalies, and opportunities.  
+-  Skilled in **Python, SQL, Power BI, Tableau**, and **data visualization**.  
+-  Passionate about building **predictive models** for churn, revenue leakage, and business optimization.  
+-  Always learning and exploring the latest in **data analytics and AI**.  
 
 ---
 
@@ -19,8 +19,7 @@ I help businesses turn complex data into actionable insights, optimize revenue, 
 |-------------------|-------------------------------|----------------|
 | Python, SQL,  c+    | Pandas, NumPy, Matplotlib, Seaborn | Scikit-learn, XGBoost |
 | Power BI, Tableau   | Excel, Power Query, DAX        | Regression, Classification, Clustering |
-| Git, GitHub         
-| Data Cleaning & ETL             | Feature Engineering |
+| Git, GitHub         | Data Cleaning & ETL             | Feature Engineering |
 
 ---
 
@@ -48,10 +47,6 @@ I help businesses turn complex data into actionable insights, optimize revenue, 
 
 ---
 
-## 📈 GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshp23&show_icons=true&theme=radical)
-
----
 
 ## 📫 Get In Touch
 - **LinkedIn:**  [Harsh Patil](www.linkedin.com/in/harsh-patil-a6758a276)
