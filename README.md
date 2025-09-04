@@ -19,7 +19,8 @@ I help businesses turn complex data into actionable insights, optimize revenue, 
 |-------------------|-------------------------------|----------------|
 | Python, SQL,  c+    | Pandas, NumPy, Matplotlib, Seaborn | Scikit-learn, XGBoost |
 | Power BI, Tableau   | Excel, Power Query, DAX        | Regression, Classification, Clustering |
-| Git, GitHub         | Data Cleaning & ETL             | Feature Engineering |
+| Git, GitHub         | Data Cleaning & ETL           
+                      | Feature Engineering |
 
 ---
 
