@@ -27,10 +27,10 @@ I help businesses turn complex data into actionable insights, optimize revenue, 
 ## 📂 Projects
 
 ### 1️⃣ [Revenue Leakage Detection](https://github.com/harshp23/Telecom_revenue_leakage_Analysis)
-- Identified revenue loss worth $133K by analyzing transaction data.  
-- Built predictive models to detect leakage patterns.  
-- Created interactive dashboards for business insights using **Power BI**.
-- Tools Used : Python , Power BI
+- Built a Revenue Leakage Detection pipeline on a 4M+ row Telecom IoT CRM dataset using Python for data cleaning, feature engineering, and KPI creation.
+- Developed Power BI dashboards with segmentation filters (age, region, revenue thresholds) to visualize leakage trends and top impacted users.
+- Identified $133K revenue leakage (14k users) out of $17M total revenue, uncovering 14% high-usage low-revenue customers.
+- Optimized raw data from 4M+ rows to 97k active users, improving dashboard performance and enabling weekly trend analysis.
 
 ### 2️⃣ [Customer Churn Prediction – Brazilian E-Commerce](https://github.com/harshp23/churn-prediction-extreme-imbalance)
 - Predicted high-risk churn customers using **Random Forest & XGBoost**.  
