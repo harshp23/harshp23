@@ -26,19 +26,25 @@ I help businesses turn complex data into actionable insights, optimize revenue, 
 
 ## 📂 Projects
 
-### 1️⃣ [Revenue Leakage Detection](https://github.com/harshp23/Telecom_revenue_leakage_Analysis)
+###1️⃣  [Supply chain ESG Risk Analysis](https://github.com/harshp23/supply-chain-esg-risk-analysis)
+- Developed a comprehensive ESG-driven supplier risk analysis framework, integrating supply chain, ESG, and geopolitical datasets (60+ features) to identify high-risk suppliers and sectors.
+- Built and deployed a Random Forest model (ROC-AUC: 0.89) to predict supplier risk, enabling proactive risk mitigation strategies.
+- Designed interactive Power BI dashboards to visualize sector-level risk exposure, supplier dependencies, and geopolitical disruptions for executive decision-making.
+- Delivered actionable insights such as high-risk concentration in the Energy sector and strong ESG–delivery delay correlations, supporting data-driven supply chain resilience.
+
+###  2️⃣ [Revenue Leakage Detection](https://github.com/harshp23/Telecom_revenue_leakage_Analysis)
 - Built a Revenue Leakage Detection pipeline on a 4M+ row Telecom IoT CRM dataset using Python for data cleaning, feature engineering, and KPI creation.
 - Developed Power BI dashboards with segmentation filters (age, region, revenue thresholds) to visualize leakage trends and top impacted users.
 - Identified $133K revenue leakage (14k users) out of $17M total revenue, uncovering 14% high-usage low-revenue customers.
 - Optimized raw data from 4M+ rows to 97k active users, improving dashboard performance and enabling weekly trend analysis.
 
-### 2️⃣ [Customer Churn Prediction – Brazilian E-Commerce](https://github.com/harshp23/churn-prediction-extreme-imbalance)
+### 3️⃣ [Customer Churn Prediction – Brazilian E-Commerce](https://github.com/harshp23/churn-prediction-extreme-imbalance)
 - Predicted high-risk churn customers using **Random Forest & XGBoost**.  
 - Improved retention strategies by identifying actionable patterns.  
 - Visualized insights using **Python & dashboards**.
 - Tools Used : Python , Mysql 
 
-### 3️⃣ [Credit Card Transaction Dashboard](https://github.com/harshp23/Credit_card_financial_weekly_report)
+###  4️⃣ [Credit Card Transaction Dashboard](https://github.com/harshp23/Credit_card_financial_weekly_report)
 - Developed an end-to-end **Power BI dashboard** for transaction analysis.  
 - Highlighted spending patterns, fraud detection, and KPIs.  
 - Automated reporting for business efficiency.
