@@ -26,7 +26,7 @@ I help businesses turn complex data into actionable insights, optimize revenue, 
 
 ## 📂 Projects
 
-###1️⃣  [Supply chain ESG Risk Analysis](https://github.com/harshp23/supply-chain-esg-risk-analysis)
+### 1️⃣  [Supply chain ESG Risk Analysis](https://github.com/harshp23/supply-chain-esg-risk-analysis)
 - Developed a comprehensive ESG-driven supplier risk analysis framework, integrating supply chain, ESG, and geopolitical datasets (60+ features) to identify high-risk suppliers and sectors.
 - Built and deployed a Random Forest model (ROC-AUC: 0.89) to predict supplier risk, enabling proactive risk mitigation strategies.
 - Designed interactive Power BI dashboards to visualize sector-level risk exposure, supplier dependencies, and geopolitical disruptions for executive decision-making.
